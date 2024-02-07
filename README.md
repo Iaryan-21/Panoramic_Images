@@ -9,4 +9,4 @@ Third Image:
 ![Example Image](Data/Train/CustomSet1/3.jpg)
 
 After Implementation of Traditional Processes:
-![Example Image](results/CustomSet1/mypano.jpg)
+![Example Image](results/CustomSet1/mypano.png)
